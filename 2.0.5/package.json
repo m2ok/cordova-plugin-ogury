@@ -1,0 +1,10 @@
+{
+    "version": "2.0.5",
+    "name": "org.ogury.cordova.plugin",
+    "cordova_name": "OguryCordovaPlugin",
+    "description": "cordova ogury plugin",
+    "platforms": [
+        "android"
+    ],
+    "engines": []
+}
