@@ -3,9 +3,13 @@
         id="org.ogury.cordova.plugin"
         version="2.0.5">
 
+    <engines>
+        <engine name="cordova" version=">=3.0.0" />
+    </engines>
+
     <name>OguryCordovaPlugin</name>
     <description>cordova ogury plugin</description>
-    <author>Moukhliss Gadami, moukliss@gmail.com</author>
+    <author>Moukhliss, moukliss@gmail.com</author>
 
     <!-- android -->
     <platform name="android">
